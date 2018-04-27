@@ -1,0 +1,57 @@
+/* Unread Messages */
+.zF,
+.bqe,
+.bq3 {
+  font-weight: 500;
+}
+
+/* Compose button */
+.z0 {
+  display: flex;
+  align-items: center;
+  height: 56px;
+  margin: 48px 0 24px 0;
+  padding: 0;
+}
+.z0>.L3 {
+  border-radius: 0;
+  height: 100%;
+  margin-left: 0;
+  padding: inherit inherit inherit inherit;
+  width: 100%;
+  justify-content: center;
+}
+
+/* Search Bar */
+.gb_Pe {
+  border-radius: 0;
+  max-width: 100%;
+}
+
+/* Check Box */
+.T-Jo::before {
+  border-radius: 0px;
+}
+
+.T-Jo {
+  height: 14px;
+  width: 14px;
+}
+
+/* Message row background */
+.yO {
+  background: rgba(242, 245, 245, .98);
+  color: #000;
+}
+
+/* Active Label Indicator */
+.TK .TO,
+.n6 .ah9,
+.CL {
+  border-radius: 0px;
+}
+
+/* Attachment border */
+.brc {
+  border-radius: 0px;
+}
